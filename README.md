@@ -24,7 +24,7 @@
     <main>
         <section id="contato">
             <h2>Contato</h2>
-            <p>Telefone: (XX) XXXX-XXXX</p>
+            <p>Telefone: (88)9 8868-1421</p>
             <p>Email: contato@depósito-naldo.com</p>
         </section>
 
