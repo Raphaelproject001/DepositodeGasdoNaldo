@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Depósito de Gás e Água do Naldo</title>
+    <title>Depósito de Gás do Naldo</title>
     <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/js/all.min.js" integrity="sha512-HbZsOXXpdI8QK/6xJzO2fl8WgH9Qw3/9D5H/R9Gg6ZNGG8h0PzGo2Pz4LxK7T4LB+gO8HSp6qF3Di5Iht5J6g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 </head>
 <body>
     <header>
-        <h1>Depósito de Gás e Água do Naldo</h1>
+        <h1>Depósito de Gás do Naldo</h1>
         <nav>
             <ul>
                 <li><a href="#contato">Contato</a></li>
